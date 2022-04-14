@@ -1,4 +1,8 @@
 # Card Hover
+- Made with CSS.
+- Participated in contribution for Selfmade Ninja Academy.
+## Demo
+https://user-images.githubusercontent.com/88220620/163461989-6d04f6a2-61e6-4a0c-996e-5a8e3f0bed47.mp4
 ## Screen shots
 ### Before Hover
 ![image](https://user-images.githubusercontent.com/88220620/151030046-aed5151a-99b4-43d2-aea0-208242412252.png)
